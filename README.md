@@ -6,7 +6,7 @@ This contains a script to analyze pharmaceutical data about mice and tumor volum
 
 Within the resources file, contains the csv needed to perform the analysis.
 
-### Software used:
+### Software used
 
 * Python: 3.7.4
 * matplotlib: 3.2.2
@@ -68,4 +68,4 @@ The regression line of the scatter plot above.
 
 * The outlier found in the box and whiskers plot is not quantitatively an outlier. Calculating the quartiles and both the upper bound and lower bound. It is found that the lower bound of the Infubinol drug is 33.282. The outlier is greater than the lower bound. However, the infubinol data is tightly clustered. The outlier is outside of the cluster, making it an outlier.
 
-* 
+* Based on the chosen mouse. Capomulin is an effective drug in decreasing the tumor volume in mice. If the other mice follow the same trend, then the drug is a frontrunner in treatment.
