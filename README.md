@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Analysis of Drug Regimens on Mice
 
 This contains a script to analyze pharmaceutical data about mice and tumor volumes. The goal is analyze the mice as well as the drug regimens used in the study. The main drug analysis is done on Capumulin.
 
